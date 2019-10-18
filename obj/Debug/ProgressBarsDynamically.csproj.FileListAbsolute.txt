@@ -1,0 +1,10 @@
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\bin\Debug\ProgressBarsDynamically.exe.config
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\bin\Debug\ProgressBarsDynamically.exe
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\bin\Debug\ProgressBarsDynamically.pdb
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\obj\Debug\ProgressBarsDynamically.csprojAssemblyReference.cache
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\obj\Debug\ProgressBarsDynamically.Form1.resources
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\obj\Debug\ProgressBarsDynamically.Properties.Resources.resources
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\obj\Debug\ProgressBarsDynamically.csproj.GenerateResource.cache
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\obj\Debug\ProgressBarsDynamically.csproj.CoreCompileInputs.cache
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\obj\Debug\ProgressBarsDynamically.exe
+D:\Coding\ExampleProject\ProgressBarsDynamically\ProgressBarsDynamically\obj\Debug\ProgressBarsDynamically.pdb
